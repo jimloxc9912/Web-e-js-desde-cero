@@ -23,7 +23,7 @@ JavaScript es un **lenguaje de programación interpretado, dinámico y de script
 
   **Tipos de datos (Primitivos)**
   * **String** : Caracteres dentro de comillas dobles y simples (texto).
-  * **Number** : Sin distincion entre enterios y decimales.
+  * **Number** : Sin distincion entre enteros y decimales.
   * **Boolean** : Verdadero o falso, usado para evaluar condiciones.
   * **Undefined** : Valor asignado automaticamente cuando no tiene valor (ejemplo : Declaración de una variable sin asignar).
   * **Null** : Valor que indica que no hay información disponible.
@@ -34,4 +34,46 @@ JavaScript es un **lenguaje de programación interpretado, dinámico y de script
 [**-Proyecto Introducción a JavaScript**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/01_Fundamentos%20js/tipos-de-dato.js)
 
 [**-Ejercicios de Clase 01**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/01_Fundamentos%20js/introduccion.js)
+
+
+</details>
+
+<details>
+ <summary>Clase 2: Comparaciones y decisiones</summary>
+
+   **Objetivos**
+  * Conocer las herramientas llamadas operadores de comparación y operadores lógicos.
+  * Aprender el funcionamiento de estos operadores y cuando usarlos.
+  * Saber identificar el tipo de dato de una variable.
+
+  **Operadores de comparación**
+  <br> Permiten comparar dos valores y devolver un resultado true (verdadero) o false (falso)
+  * **Igualdad débil (==)** : compara dos valores,convierte los tipos de dato. 
+  * **Igualdad Estricta (===)** : compara los valores y también los tipos de dato.
+  * **Diferencia Débil (!=)** : Compara dos valores y devuelve true si son diferentes, sin importar el tipo de dato.
+  * **Diferencia Estricta (!==)** : Compara los valores y tipos de datos. 
+    Devuelve true si son diferentes en valor o tipo.
+  * **Mayor que (>) y Menor que (<)** : Compara si un valor es mayor o menor que otro.
+  * **Mayor o igual que (>=) y Menor o igual que (<=)** : Compara si un valor es mayor o igual, 
+    o menor o igual que otro.
+
+  **Operadores de Lógicos**
+
+  <br> Permiten combinar varias condiciones. 
+  * **AND (&&)** : Devuelve true solo si ambas condiciones son verdaderas. 
+    Si alguna es falsa, devuelve false.
+  * **OR (||)** : Devuelve true si al menos una de las condiciones es verdadera. 
+    Solo devuelve false si todas son falsas.
+  * **NOT (!)** : Invierte el valor de una condición. 
+
+   **Estructura de control if**
+
+   <br> "Si una condición es verdadera, haz esto. Si no, haz otra cosa."
+   **if** :  Se utiliza para comparar si una condición es verdadera.
+   **else if** : Evaluar otra condición si la condición del if anterior es falsa. Puedes tener tantos else if como necesites.
+   **else** : Se utiliza si ninguna de las condiciones anteriores es verdadera
+
+[**-Proyecto 02- Evaluador de Notas con Mensajes Personalizados**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/02_Condicionales/app_notas.js)
+
+[**-Ejercicios de Clase 02**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/02_Condicionales/clase02_ejercicios.js)
 </details>
