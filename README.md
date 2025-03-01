@@ -33,7 +33,7 @@ JavaScript es un **lenguaje de programación interpretado, dinámico y de script
 
 [**-Proyecto Introducción a JavaScript**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/01_Fundamentos%20js/tipos-de-dato.js)
 
-[**-Ejercicios de Clase 01**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/01_Fundamentos%20js/introduccion.js)
+[**-Ejercicios de Clase 01**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/02_Condicionales/clase02_ejercicios.js)
 
 
 </details>
