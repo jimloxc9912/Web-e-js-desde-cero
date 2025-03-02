@@ -105,4 +105,5 @@ JavaScript es un **lenguaje de programación interpretado, dinámico y de script
 [**-Proyecto 03- Evaluador de Notas con Mensajes Personalizados**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/app_clasifier.js)
 
 [**-Ejercicios de Clase 03**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/exercise_class.js)
+[**-Ejercicios de lecturas 3**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/exercise_lectures.js)
 </details>
