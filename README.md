@@ -77,3 +77,32 @@ JavaScript es un **lenguaje de programación interpretado, dinámico y de script
 
 [**-Ejercicios de Clase 02**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/02_Condicionales/clase02_ejercicios.js)
 </details>
+
+<details>
+ <summary>Clase 3: Arreglos y Ciclos en JavaScript</summary>
+
+   **Objetivos**
+  * Conocer los diferentes ciclos en JavaScript.
+  * Aprender el funcionamiento de ciclos y cuando usarlos.
+  * Practicar el uso de Arrays.
+
+  **ciclos**
+  <br> Estructura de control que permite ejecutar un bloque de código repetidamente.
+  * **While** : Se repite mientras una condición específica sea verdadera.Es útil cuando no sabemos cuántas veces necesitaremos repetir un proceso. 
+  * **For** :  Permite repetir un bloque de código un número específico de veces.
+
+  **Arrays**
+  <br> Es una estructura de datos que permite almacenar múltiples valores en una sola variable.
+  **Características**
+  * Índices.
+  * Tipode datos.
+  * Acceso a elementos mediante su indice [inicio en 0].
+  * Manipulación de arreglos a tráves de métodos push(), unshift(), pop(),
+  shift().
+  * **length** : Propiedad que devuelve el número de elementos en el arreglo.
+
+
+[**-Proyecto 03- Evaluador de Notas con Mensajes Personalizados**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/app_clasifier.js)
+
+[**-Ejercicios de Clase 03**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/exercise_class.js)
+</details>
