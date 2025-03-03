@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.comment-box {
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.comment-box input, .comment-box textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: #e3f2fd;
+    color: #333;
+    display: block;
+}
+.comment-box button {
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+}
+.comment-box button:hover {
+    background: linear-gradient(to right, #ff5e62, #ff9966);
+}
+.comment {
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.user-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.user-info i {
+    font-size: 40px;
+    margin-right: 10px;
+    color: #ff5e62;
+}
+.user-details {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.user-name {
+    font-weight: bold;
+    color: #333;
+}
+.date {
+    font-size: 12px;
+    color: #777;
+    text-align: right;
+}
+.like-dislike {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+.like-dislike button {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    color: #333;
+}
+.like:hover {
+    color: #ff5e62;
+}
+.dislike:hover {
+    color: #ff9966;
+}
