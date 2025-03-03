@@ -236,6 +236,6 @@ JavaScript es un **lenguaje de programación interpretado, dinámico y de script
   * Obtener Clave por Índice: key(index)
 
 
-[**-Generador de Passwords**](https://github.com/jimloxc9912/Web-e-js-desde-cero/tree/main/08_Proyecto_final)
+[**-App comentarios**](https://github.com/jimloxc9912/Web-e-js-desde-cero/tree/main/08_Proyecto_final)
 
 </details>
