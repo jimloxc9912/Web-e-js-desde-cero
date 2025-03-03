@@ -86,7 +86,7 @@ JavaScript es un **lenguaje de programación interpretado, dinámico y de script
   * Aprender el funcionamiento de ciclos y cuando usarlos.
   * Practicar el uso de Arrays.
 
-  **ciclos**
+  **Ciclos**
   <br> Estructura de control que permite ejecutar un bloque de código repetidamente.
   * **While** : Se repite mientras una condición específica sea verdadera.Es útil cuando no sabemos cuántas veces necesitaremos repetir un proceso. 
   * **For** :  Permite repetir un bloque de código un número específico de veces.
@@ -105,5 +105,137 @@ JavaScript es un **lenguaje de programación interpretado, dinámico y de script
 [**-Proyecto 03- Evaluador de Notas con Mensajes Personalizados**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/app_clasifier.js)
 
 [**-Ejercicios de Clase 03**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/exercise_class.js)
+
 [**-Ejercicios de lecturas 3**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/exercise_lectures.js)
+</details>
+
+
+<details>
+ <summary>Clase 4: Funciones</summary>
+
+   **Objetivos**
+  * Comprender qué es una función y su importancia en la programación.
+  * Aplicar funciones en situaciones prácticas.
+  * Desarrollar habilidades para escribir código modular y reutilizable.
+
+  **Functions**
+  <br> Ejecutan una tareas específicas y pueden recibir datos, realizar operaciones sobre ellos y devolver un resultado.
+  **Importancia de uso**
+  * **Modularidad** : Permiten dividir ell código. 
+  * **Reutilización** :  Puedes llamar una función cunatas veces desees.Evitas código repetitivo.
+  * **Mantenimiento** : Reduce riegos. 
+
+  **Algunas funciones**
+  * **Anónimas** : Funciones sin un nombre. 
+  * **Flecha (Arrow functions)** :  Puedes llamar una función cunatas veces desees.Evitas código repetitivo.
+  * **Mantenimiento** : Reduce riegos. 
+
+[**-Proyecto 04- Funciones en Javascript**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/app_clasifier.js)
+
+[**-Ejercicios de Clase 04**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/exercise_class.js)
+
+[**-Ejercicios de lecturas 4**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/03_Ciclos_y_arreglos/exercise_lectures.js)
+</details>
+
+
+<details>
+ <summary>Clase 5: Objetos</summary>
+
+   **Objetivos**
+  * Entender la estructura básica de un objeto y cómo crear uno.
+  * Aprender a acceder y manipular propiedades y métodos de un objeto.
+  * Aplicar objetos para modelar datos del mundo real.
+
+  **Object**
+  <br> los objetos agrupan información relacionada.Permite a los desarrolladores modelar datos del mundo real de manera más efectiva.
+  **Creación de objetos**
+  * Sintaxis de objeto literal.
+  * Constructor Object.
+  * clases (ES6).
+
+  **Acceso a propiedades**
+  * Notación de punto.
+  * Notación de corchetes
+
+
+
+[**-Proyecto 05- Proyecto Objetos en JavaScript**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/05_Objetos/app_libros.js)
+
+[**-Ejercicios de Clase 05**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/05_Objetos/excersise_class.js)
+
+[**-Ejercicios de lecturas 05**](https://github.com/jimloxc9912/Web-e-js-desde-cero/blob/main/05_Objetos/excercise_lecture.js)
+</details>
+
+
+<details>
+ <summary>Clase 6: Introduccion al Dom</summary>
+
+  **Objetivos**
+  * Comprender la estructura y función del DOM
+  * Aprender a seleccionar y manipular elementos del DOM con JavaScript
+  * Implementar interactividad con eventos usando addEventListener
+
+  **DOM**
+  <br> DOM es una representación estructurada de todo el contenido de una página HTML, que convierte los elementos de una página (como etiquetas, atributos y texto) en objetos que podemos manipular con código
+
+  **seleccion de elementos**
+  * document.getElementById(): Selecciona un elemento por su ID.
+  * document.getElementsByClassName(): Selecciona todos los elementos que tengan una clase específica.
+  * document.getElementsByTagName(): Selecciona todos los elementos de un tipo específico.
+  * document.querySelector(): Selecciona el primer elemento que coincide con un selector CSS.
+  * document.querySelectorAll(): Selecciona todos los elementos que coinciden con un selector CSS.
+
+  **Manipulación de elementos**
+  * Cambiar el contenido de un elemento.
+  * Cambiar los atributos de un elemento.
+  * Cambiar el estilo de un elemento.
+  * Crear nuevos elementos.
+  * Eliminar elementos.
+
+[**-Proyecto 06- Intro al DOM**](https://github.com/jimloxc9912/Web-e-js-desde-cero/tree/main/06_Intro_DOM)
+
+</details>
+
+<details>
+ <summary>Clase 7:Dominando el DOM</summary>
+  
+  **Acceso y modificación de Contenido del DOM**
+   
+  * Acceder al Nombre de la Etiqueta: nodeName
+  * Modificar Contenido de Texto con .textContent
+  * Acceso al Texto Renderizado con .innerText
+  * Reemplazo del Elemento con .outerText
+  * Insertar Contenido HTML innerHTML
+
+  **Acceder a clases CSS classList**
+
+  * Añadir clases css .classList.add()
+  * eliminar clases CSS .classList.remove().
+  * Comprobar si existen clases CSS .classList.contains()
+  * Alternar clases CSS .classList.toggle()
+  * Reemplazar una clase CSS .classList.replace()
+
+
+[**-Generador de Passwords**](https://github.com/jimloxc9912/Web-e-js-desde-cero/tree/main/07_DOM)
+
+</details>
+
+<details>
+
+ <summary>Clase 8:Proyecto final</summary>
+  
+  **El LocalStorage Tema Bonus**
+   <br> El localStorage es una API de almacenamiento en el navegador que permite guardar pares clave-valor de forma persistente. Los datos se mantienen incluso después de cerrar el navegador, haciéndolo ideal para conservar configuraciones, carritos de compras y más.
+
+  **Métodos Comunes**
+
+  * Guardar Datos: setItem(key, value)
+  * Recuperar Datos: getItem(key)
+  * Eliminar Datos Específicos: removeItem(key)
+  * Eliminar Todos los Datos: clear()
+  * Obtener Clave por Índice: key(index)
+
+
+[**-Generador de Passwords**](https://github.com/jimloxc9912/Web-e-js-desde-cero/tree/main/08_Proyecto_final)
+
 </details>
